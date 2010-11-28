@@ -1,0 +1,10 @@
+; $Id$
+name = UC Member Pricing Views Integration
+description = Extend UC Member Pricing to use it in Views module.
+dependencies[] = uc_product
+dependencies[] = uc_cart
+dependencies[] = uc_member_pricing
+package = "Ubercart - extra"
+core = 6.x
+php = 5.0
+

@@ -1,0 +1,17 @@
+<?php
+// $Id$
+
+/**
+ * @file
+ */
+
+/**
+ * Implementation of hook_views_api().
+ */
+function uc_member_pricing_views_views_api(){
+  return array(
+    'api' => 2,
+    'path' => drupal_get_path('module', 'uc_member_pricing_views'),
+  );
+}
+
