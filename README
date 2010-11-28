@@ -1,2 +1,14 @@
+[ README ]
 This module extend uc_member_pricing to integrate it with views module.
 
+[ TODO ]
+Select price per user.
+
+[ HOW USE IT ]
+ - Enable module
+ - Create a view or use a existing view
+ - Add new Field in view
+ - Select "Ubercart Member Pricing" group
+ - Select "Role Price" to view price per role
+ - Select role
+ - Finish :D
